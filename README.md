@@ -9,6 +9,16 @@ Ez a program képes hangot felismerni és a felismert szöveget hanggá alakíta
 3. Ha a hangfelismerés sikeres, a program kiírja a felismert szöveget, majd hanggá alakítja és felolvassa.
 4. Ha a hangfelismerés nem sikerül, a program kiírja, hogy "Nem sikerült felismerni a hangot!", majd ezt a szöveget hanggá alakítja és felolvassa.
 
+## Virtuális környezet létrehozása és beállítása
+
+A Python csomagok telepítése előtt ajánlott létrehozni egy virtuális környezetet (`venv`), hogy elkerüljük a függőségek konfliktusait. A virtuális környezet létrehozásához és aktiválásához kövesd az alábbi lépéseket:
+
+1. Nyisd meg a terminált és navigálj a projekt könyvtárába.
+2. Hozd létre a virtuális környezetet a következő paranccsal: `python3 -m venv venv`
+3. Aktiváld a virtuális környezetet a következő paranccsal: `source venv/bin/activate`
+
+Most már készen állsz a függőségek telepítésére a virtuális környezetben.
+
 ## Függőségek
 
 A program a következő Python csomagokat használja:
