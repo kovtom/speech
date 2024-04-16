@@ -1,4 +1,4 @@
-# Simple speech recognition program using SpeechRecognition library
+# Egyszerű hangfelismerő program amely a SpeechRecognition library-t használja
 import speech_recognition as sr
 
 # Hangfelismerő objektum létrehozása
