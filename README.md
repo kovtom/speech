@@ -16,6 +16,7 @@ A program a következő Python csomagokat használja:
 - `speech_recognition`: A hangfelismeréshez.
 - `gtts` (Google Text-to-Speech): A szöveg hanggá alakításához.
 - `os`: Az operációs rendszer műveleteinek végrehajtásához.
+- `setuptools`: Python csomag létrehozására
 
 Ezeket a csomagokat a `pip install` parancs segítségével telepítheted.
 
