@@ -19,6 +19,8 @@ A Python csomagok telepítése előtt ajánlott létrehozni egy virtuális körn
 
 Most már készen állsz a függőségek telepítésére a virtuális környezetben.
 
+További információk a virtuális környezetekről és a beállításukról a [Visual Studio Code dokumentációjában](https://code.visualstudio.com/docs/python/environments) találhatók.
+
 ## Függőségek
 
 A program a következő Python csomagokat használja:
